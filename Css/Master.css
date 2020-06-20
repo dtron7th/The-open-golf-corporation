@@ -1,4 +1,10 @@
 *{
     padding: 0px;
     margin: 0px;
+    font-family: OpenSans-Light ;
+}
+
+@font-face {
+    src: url(/Fonts/OpenSans-Light.ttf);
+    font-family: OpenSans-Light;
 }
