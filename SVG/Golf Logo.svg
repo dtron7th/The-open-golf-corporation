@@ -7,68 +7,74 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\SVG\Golf Logo.png"
-   sodipodi:docname="Golf Logo.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 91.722215 31.749977"
+   width="260pt"
    height="90pt"
-   width="260pt">
+   viewBox="0 0 91.722215 31.749977"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Golf Logo.svg"
+   inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\SVG\Golf Logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     inkscape:showpageshadow="false"
-     units="pt"
-     showborder="true"
-     inkscape:document-rotation="0"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="837"
-     inkscape:window-width="1600"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-global="false"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="true"
-     inkscape:snap-bbox="true"
-     inkscape:guide-bbox="true"
-     showguides="false"
-     showgrid="false"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="94.158091"
-     inkscape:cx="123.72139"
-     inkscape:zoom="2"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-page="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     id="base"
      pagecolor="#333333"
-     id="base">
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="146.32652"
+     inkscape:cy="117.01638"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-global="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     showborder="true"
+     units="pt"
+     inkscape:showpageshadow="false">
     <sodipodi:guide
-       inkscape:locked="false"
+       position="97.239911,209.49901"
+       orientation="1,0"
        id="guide849"
-       orientation="1,0"
-       position="97.239911,209.49901" />
+       inkscape:locked="false" />
     <sodipodi:guide
-       id="guide1512"
+       position="55.562499,163.57441"
        orientation="0,-1"
-       position="55.562499,163.57441" />
+       id="guide1512" />
     <sodipodi:guide
-       id="guide1742"
+       position="45.861093,41.104417"
        orientation="1,0"
-       position="28.865109,-0.24198256" />
+       id="guide1742" />
     <sodipodi:guide
-       id="guide1744"
+       position="32.106994,13.322985"
        orientation="0,-1"
-       position="32.106994,13.322985" />
+       id="guide1744" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -78,92 +84,169 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <g
-       id="g912"
-       transform="matrix(1.0948357,0,0,1.0948357,-0.75502538,-11.94432)" />
+       transform="matrix(1.0948357,0,0,1.0948357,-0.75502538,-11.94432)"
+       id="g912" />
     <path
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\Images\Logo.png"
-       sodipodi:nodetypes="ccccccccccc"
-       inkscape:connector-curvature="0"
-       id="rect892"
-       d="m 44.720639,18.132722 -0.440183,0.401206 c 0.0046,0.983001 -0.0038,1.315426 -0.0038,1.315426 0,0 1.674899,0.677328 2.014378,3.995371 0.148567,0.124331 0.750084,0.124331 0.898539,0 0.339482,-3.318043 2.014381,-3.995371 2.014381,-3.995371 0,0 -0.0083,-0.332414 -0.0033,-1.315426 l -0.440185,-0.401206 c -0.622951,0.319552 -1.314956,0.488769 -2.019941,0.489266 -0.704993,-3.71e-4 -1.397001,-0.16974 -2.019946,-0.489266 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.563723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 44.437784,18.732643 -0.251664,0.229443 c 0.0031,0.669388 -0.0026,0.895553 -0.0026,0.895553 0,0 1.073243,0.682657 1.371492,3.597713 0.101168,0.08466 0.510756,0.08466 0.611848,0 0.298252,-2.915056 1.371492,-3.597713 1.371492,-3.597713 0,0 -0.0056,-0.226158 -0.0021,-0.895553 L 47.28464,18.732643 a 6.2695303,6.2695303 0 0 1 -1.423686,0.163814 6.2695303,6.2695303 0 0 1 -1.42317,-0.163814 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.383876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect892" />
     <path
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\Images\Logo.png"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.327245;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.696601,2.6068814 0.507981,4.064433 a 6.1819145,6.1819145 0 0 1 1.656687,-0.226144 6.1819145,6.1819145 0 0 1 1.655665,0.232199 l 0.136368,-1.090289 0.372331,-2.980214 -1.352866,1.894224 -0.811768,-1.352869 -0.81152,1.352869 z"
        id="rect1486"
-       d="m 44.575946,2.4219432 0.507981,4.064433 a 6.1819145,6.1819145 0 0 1 1.656687,-0.226144 6.1819145,6.1819145 0 0 1 1.655665,0.232199 l 0.136368,-1.090289 0.372331,-2.980214 -1.352866,1.894224 -0.811768,-1.352869 -0.81152,1.352869 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.327245;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\Images\Logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
-       r="5.8001037"
-       cy="12.441968"
-       cx="46.740456"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.07389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1746"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.07389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="45.861111"
+       cy="12.626906"
+       r="5.8001037" />
     <g
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\Images\Logo.png"
-       transform="matrix(0.27361124,0,0,0.27361124,6.2686758,-19.561373)"
+       style="fill:#ececec"
        id="g853"
-       style="fill:#ececec" />
-    <ellipse
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
+       transform="matrix(0.27361124,0,0,0.27361124,6.2686758,-19.561373)"
        inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\Images\Logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.301119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1489"
+       cx="45.861301"
+       cy="2.6508043"
+       rx="0.49794263"
+       ry="0.49794018"
+       inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\Images\Logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
        ry="0.49794018"
        rx="0.49794263"
-       cy="2.4658661"
-       cx="46.740646"
-       id="path1489"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.301119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <ellipse
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\Images\Logo.png"
-       transform="rotate(-15)"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.301119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cy="13.32962"
+       cx="41.532963"
        id="path1489-6"
-       cx="42.43021"
-       cy="13.378575"
-       rx="0.49794263"
-       ry="0.49794018" />
-    <ellipse
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\Images\Logo.png"
-       ry="0.4979403"
-       rx="0.49794269"
-       cy="-10.816064"
-       cx="-47.865406"
-       id="ellipse1510"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.301119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(-0.96592583,-0.25881905,-0.25881905,0.96592583,0,0)" />
+       transform="rotate(-15)"
+       inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\Images\Logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       transform="matrix(-0.96592583,-0.25881905,-0.25881905,0.96592583,0,0)"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.301119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse1510"
+       cx="-47.063889"
+       cy="-10.409836"
+       rx="0.49794269"
+       ry="0.4979403"
+       inkscape:export-filename="C:\Users\dtron\Desktop\The Open Golf Corperation\The-open-golf-corporation\Images\Logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
-       d="m 51.207516,9.5723652 a 6.1898363,6.1898363 0 0 1 0.262574,1.7843798 6.1898363,6.1898363 0 0 1 -6.189862,6.189862 5.3096054,5.3096054 0 0 0 1.459863,0.205249 5.3096054,5.3096054 0 0 0 5.309691,-5.30969 5.3096054,5.3096054 0 0 0 -0.842266,-2.8698008 z"
+       id="path1748"
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.11104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1748" />
-    <text
-       id="text1783"
-       y="30.364218"
-       x="0.57490474"
+       d="m 50.328171,9.7573034 a 6.1898363,6.1898363 0 0 1 0.262574,1.7843796 6.1898363,6.1898363 0 0 1 -6.189862,6.189862 5.3096054,5.3096054 0 0 0 1.459863,0.205249 5.3096054,5.3096054 0 0 0 5.309691,-5.30969 5.3096054,5.3096054 0 0 0 -0.842266,-2.8698006 z" />
+    <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.89977px;line-height:1.25;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147495"
-       xml:space="preserve"><tspan
+       id="text1783"
+       aria-label="The Open Golf Corporation">
+      <path
+         id="path873"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
-         y="30.364218"
-         x="0.57490474"
-         id="tspan1781"
-         sodipodi:role="line">The Open Golf Corporation</tspan></text>
+         d="m 2.7556302,26.806495 v 3.217795 q 0,0.11811 0.03745,0.169964 0.03745,0.04897 0.1469181,0.07778 v 0.09218 H 2.1189851 v -0.09218 q 0.1094684,-0.02881 0.1469181,-0.07778 0.03745,-0.04897 0.03745,-0.169964 V 26.806495 H 0.97244782 q -0.12099137,0 -0.17284482,0.03745 -0.0489727,0.03457 -0.0748994,0.144037 H 0.63251968 V 26.24475 h 0.0921839 q 0.0259267,0.112349 0.0748994,0.149798 0.0518535,0.03745 0.17284482,0.03745 H 4.0865353 q 0.1209914,0 0.1699641,-0.03745 0.051853,-0.03745 0.07778,-0.149798 h 0.092184 v 0.743232 h -0.092184 q -0.025927,-0.109468 -0.07778,-0.144037 -0.048973,-0.03745 -0.1699641,-0.03745 z" />
+      <path
+         id="path875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="M 7.5607162,28.860468 H 5.4347249 v 1.178225 q 0,0.118111 0.03745,0.169964 0.03745,0.04897 0.1469181,0.07778 v 0.07778 H 4.8384103 v -0.07778 q 0.1094684,-0.02881 0.1469181,-0.07778 0.03745,-0.05185 0.03745,-0.169964 v -2.575387 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.1469181,-0.07778 v -0.07778 h 0.7806824 v 0.07778 q -0.1094684,0.02881 -0.1469181,0.07778 -0.03745,0.04897 -0.03745,0.169965 v 1.08316 h 2.1259913 v -1.08316 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.1469181,-0.07778 v -0.07778 h 0.7806824 v 0.07778 q -0.1094684,0.02881 -0.1469181,0.08066 -0.03745,0.04897 -0.03745,0.167084 v 2.575387 q 0,0.118111 0.03745,0.169964 0.03745,0.04897 0.1469181,0.07778 v 0.07778 H 7.3763484 v -0.07778 q 0.1094684,-0.02881 0.1469181,-0.07778 0.03745,-0.05185 0.03745,-0.169964 z" />
+      <path
+         id="path877"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 9.4447244,28.854706 v 1.19551 h 1.9934766 q 0.120992,0 0.169964,-0.03745 0.05185,-0.03745 0.07778,-0.149799 h 0.08066 v 0.685618 h -0.08066 q -0.02593,-0.109469 -0.0749,-0.146919 -0.04897,-0.03745 -0.169964,-0.03745 H 8.8484098 v -0.07778 q 0.1123491,-0.02881 0.1469181,-0.07778 0.03745,-0.05185 0.03745,-0.169964 v -2.575387 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.1469181,-0.07778 v -0.07778 h 2.5725072 q 0.120991,0 0.169964,-0.03745 0.04897,-0.03745 0.07778,-0.146918 h 0.07778 v 0.685618 h -0.07778 q -0.02881,-0.112349 -0.07778,-0.149799 -0.04897,-0.03745 -0.169964,-0.03745 H 9.4447244 v 1.088922 h 1.2588866 q 0.120991,0 0.169964,-0.03745 0.04897,-0.03745 0.07778,-0.146918 h 0.07778 v 0.685618 h -0.07778 q -0.02881,-0.112349 -0.08066,-0.149799 -0.04897,-0.03745 -0.167083,-0.03745 z" />
+      <path
+         id="path879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 16.171269,26.36286 q 1.03995,0 1.676595,0.544461 0.357212,0.302479 0.535819,0.740352 0.146918,0.360094 0.146918,0.774921 0,0.561746 -0.319763,1.051473 -0.351451,0.54158 -0.976573,0.780682 -0.466681,0.178607 -1.057234,0.178607 -1.034189,0 -1.667953,-0.544461 -0.354332,-0.30536 -0.535819,-0.740352 -0.146918,-0.357213 -0.146918,-0.751875 0,-0.584792 0.316882,-1.0774 0.34569,-0.532938 0.979454,-0.777801 0.443635,-0.169965 1.048592,-0.178607 z m 0,0.394663 q -0.884389,0 -1.400043,0.495488 -0.472442,0.455158 -0.472442,1.143657 0,0.691379 0.472442,1.146537 0.512773,0.495488 1.405805,0.495488 0.895912,0 1.411566,-0.495488 0.469561,-0.455158 0.469561,-1.123491 0,-0.723068 -0.469561,-1.166703 -0.282314,-0.265029 -0.604957,-0.371616 -0.357213,-0.120992 -0.812371,-0.123872 z" />
+      <path
+         id="path881"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 19.803891,28.915202 v 1.149418 q 0,0.08642 0.03745,0.132514 0.04033,0.04609 0.138276,0.0749 v 0.09218 h -0.77204 v -0.09218 q 0.103707,-0.02881 0.144037,-0.0749 0.04033,-0.04609 0.04033,-0.132514 v -2.647406 q 0,-0.08354 -0.04321,-0.123873 -0.04033,-0.04321 -0.141157,-0.06914 v -0.08642 h 1.786063 q 0.357213,0 0.5387,0.03169 0.184368,0.03169 0.331286,0.120992 0.175725,0.103707 0.276551,0.302478 0.100827,0.195891 0.100827,0.434993 0,0.239102 -0.100827,0.432112 -0.09794,0.19301 -0.279432,0.299598 -0.149799,0.09218 -0.331286,0.123872 -0.181487,0.03169 -0.535819,0.03169 z m 0,-0.314001 h 1.135014 q 0.30824,0 0.455158,-0.02305 0.146918,-0.02593 0.250625,-0.09506 0.201652,-0.132514 0.201652,-0.458039 0,-0.319763 -0.201652,-0.455158 -0.103707,-0.06914 -0.250625,-0.09218 -0.144037,-0.02593 -0.455158,-0.02593 h -1.135014 z" />
+      <path
+         id="path883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 23.341448,28.854706 v 1.19551 h 1.993477 q 0.120991,0 0.169964,-0.03745 0.05185,-0.03745 0.07778,-0.149799 h 0.08066 v 0.685618 h -0.08066 q -0.02593,-0.109469 -0.0749,-0.146919 -0.04897,-0.03745 -0.169964,-0.03745 h -2.592672 v -0.07778 q 0.112349,-0.02881 0.146918,-0.07778 0.03745,-0.05185 0.03745,-0.169964 v -2.575387 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.146918,-0.07778 v -0.07778 h 2.572507 q 0.120991,0 0.169964,-0.03745 0.04897,-0.03745 0.07778,-0.146918 h 0.07778 v 0.685618 h -0.07778 q -0.02881,-0.112349 -0.07778,-0.149799 -0.04897,-0.03745 -0.169964,-0.03745 h -1.976193 v 1.088922 h 1.258887 q 0.120991,0 0.169964,-0.03745 0.04897,-0.03745 0.07778,-0.146918 h 0.07778 v 0.685618 h -0.07778 q -0.02881,-0.112349 -0.08066,-0.149799 -0.04897,-0.03745 -0.167083,-0.03745 z" />
+      <path
+         id="path885"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 26.786821,27.641912 v 2.396781 q 0,0.118111 0.03457,0.169964 0.03745,0.04897 0.149799,0.07778 v 0.07778 h -0.711544 v -0.07778 q 0.112349,-0.02881 0.146918,-0.07778 0.03745,-0.05185 0.03745,-0.169964 v -2.575387 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.146918,-0.07778 v -0.07778 h 1.048592 v 0.07778 q -0.149799,0.04897 -0.149799,0.149799 0,0.08642 0.109468,0.207414 l 1.904174,2.131753 v -2.241221 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.146918,-0.07778 v -0.07778 h 0.711545 v 0.07778 q -0.109469,0.02881 -0.146919,0.07778 -0.03745,0.04897 -0.03745,0.169965 v 2.575387 q 0,0.118111 0.03457,0.169964 0.03745,0.04897 0.149799,0.07778 v 0.07778 h -0.844059 v -0.07778 q 0.149799,-0.03745 0.149799,-0.118111 0,-0.0605 -0.138276,-0.216056 z" />
+      <path
+         id="path887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 36.106037,26.809376 -0.440754,0.702902 -0.0749,-0.05185 q 0.05185,-0.08642 0.05185,-0.129634 0,-0.0893 -0.30824,-0.253506 -0.593434,-0.322643 -1.215675,-0.322643 -0.723068,0 -1.218556,0.406185 -0.567507,0.46092 -0.567507,1.244483 0,0.763398 0.54158,1.215675 0.498369,0.417708 1.27329,0.417708 0.409066,0 0.777802,-0.126753 0.371616,-0.129633 0.625122,-0.360093 v -0.725948 h -0.930481 q -0.120992,0 -0.172845,0.03745 -0.04897,0.03745 -0.0749,0.146918 h -0.09218 v -0.743233 h 0.09218 q 0.02593,0.109468 0.0749,0.146918 0.05185,0.03745 0.172845,0.03745 h 1.546961 v 0.09218 q -0.109469,0.02881 -0.146918,0.07778 -0.03745,0.04897 -0.03745,0.169964 v 0.509892 q 0,0.120992 0.03745,0.169964 0.03745,0.04897 0.146918,0.07778 v 0.08066 q -0.325525,0.290956 -0.613599,0.452278 -0.625122,0.351451 -1.42597,0.351451 -0.985216,0 -1.593053,-0.532939 -0.299598,-0.262147 -0.475323,-0.628002 -0.198772,-0.417709 -0.198772,-0.881509 0,-0.665452 0.388901,-1.181106 0.360093,-0.475323 0.967931,-0.69426 0.429231,-0.15268 0.921839,-0.15268 0.432112,0 0.800848,0.103707 0.368735,0.103707 0.795086,0.342809 0.123872,0.06914 0.152679,0.06914 0.04609,0 0.141157,-0.120991 z" />
+      <path
+         id="path889"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 38.687189,27.068643 q 0.861343,0 1.38852,0.449397 0.561746,0.475323 0.561746,1.256005 0,0.486847 -0.276552,0.893032 -0.521415,0.766279 -1.667953,0.766279 -0.855581,0 -1.382758,-0.449397 -0.561746,-0.478204 -0.561746,-1.23296 0,-0.509892 0.273671,-0.916077 0.290956,-0.429231 0.815252,-0.625122 0.360093,-0.135395 0.84982,-0.141157 z m 0,0.334167 q -0.702902,0 -1.132134,0.432112 -0.374497,0.374497 -0.374497,0.916077 0,0.541581 0.374497,0.916078 0.429232,0.432112 1.137895,0.432112 0.708664,0 1.137895,-0.432112 0.374498,-0.374497 0.374498,-0.898793 0,-0.567507 -0.374498,-0.933362 -0.432112,-0.426351 -1.143656,-0.432112 z" />
+      <path
+         id="path891"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 41.847369,30.050216 h 1.96755 q 0.120991,0 0.169964,-0.03745 0.05185,-0.03745 0.08066,-0.149799 h 0.07778 v 0.685618 h -0.07778 q -0.02881,-0.109469 -0.08066,-0.146919 -0.04897,-0.03745 -0.169964,-0.03745 h -2.563865 v -0.07778 q 0.109468,-0.02881 0.146918,-0.07778 0.03745,-0.05185 0.03745,-0.169964 v -2.575387 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.146918,-0.07778 v -0.07778 h 0.780682 v 0.07778 q -0.109468,0.02881 -0.146918,0.07778 -0.03745,0.04897 -0.03745,0.169965 z" />
+      <path
+         id="path893"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 45.154463,28.851826 v 1.186867 q 0,0.118111 0.03745,0.169964 0.03745,0.04897 0.146918,0.07778 v 0.07778 h -0.780682 v -0.07778 q 0.109468,-0.02881 0.146918,-0.07778 0.03745,-0.05185 0.03745,-0.169964 v -2.575387 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.146918,-0.07778 v -0.07778 h 2.621479 q 0.118111,0 0.167084,-0.03745 0.05185,-0.03745 0.08066,-0.146918 h 0.07778 v 0.685618 h -0.07778 q -0.02881,-0.112349 -0.08066,-0.149799 -0.04897,-0.03745 -0.167084,-0.03745 h -2.025165 v 1.086041 h 1.316502 q 0.120991,0 0.169964,-0.03745 0.04897,-0.03745 0.07778,-0.149798 h 0.07778 v 0.685617 h -0.07778 q -0.02881,-0.109468 -0.07778,-0.146918 -0.04897,-0.03745 -0.169964,-0.03745 z" />
+      <path
+         id="path895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 53.744853,26.771926 -0.42635,0.711545 -0.07778,-0.04609 q 0.02593,-0.08642 0.02593,-0.135395 0,-0.118111 -0.368735,-0.296717 -0.507012,-0.247744 -1.106207,-0.247744 -0.806609,0 -1.307859,0.446515 -0.509893,0.455158 -0.509893,1.178226 0,0.720187 0.530058,1.19551 0.512773,0.4638 1.264648,0.4638 0.73459,0 1.296336,-0.429231 0.253506,-0.19301 0.253506,-0.273671 0,-0.04033 -0.04897,-0.132515 l 0.06914,-0.05473 0.512773,0.622242 -0.07202,0.05761 q -0.08066,-0.07202 -0.132514,-0.07202 -0.03169,0 -0.109469,0.0605 -0.265028,0.198771 -0.440754,0.299597 -0.172845,0.09795 -0.380258,0.167084 -0.429232,0.146918 -0.944885,0.146918 -0.993858,0 -1.616099,-0.553104 -0.65393,-0.57903 -0.65393,-1.477823 0,-0.708664 0.409066,-1.227198 0.639526,-0.812371 1.915697,-0.812371 0.844059,0 1.633383,0.446516 0.05185,0.02881 0.07202,0.02881 0.03745,0 0.135395,-0.109468 z" />
+      <path
+         id="path897"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 56.374975,27.068643 q 0.861343,0 1.38852,0.449397 0.561746,0.475323 0.561746,1.256005 0,0.486847 -0.276552,0.893032 -0.521415,0.766279 -1.667952,0.766279 -0.855582,0 -1.382759,-0.449397 -0.561746,-0.478204 -0.561746,-1.23296 0,-0.509892 0.273671,-0.916077 0.290956,-0.429231 0.815252,-0.625122 0.360093,-0.135395 0.84982,-0.141157 z m 0,0.334167 q -0.702902,0 -1.132134,0.432112 -0.374497,0.374497 -0.374497,0.916077 0,0.541581 0.374497,0.916078 0.429232,0.432112 1.137896,0.432112 0.708663,0 1.137895,-0.432112 0.374497,-0.374497 0.374497,-0.898793 0,-0.567507 -0.374497,-0.933362 -0.432112,-0.426351 -1.143657,-0.432112 z" />
+      <path
+         id="path899"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 59.535155,28.903679 v 1.135014 q 0,0.118111 0.03745,0.169964 0.03745,0.04897 0.146918,0.07778 v 0.07778 H 58.93884 v -0.07778 q 0.112349,-0.02881 0.146918,-0.07778 0.03745,-0.05185 0.03745,-0.169964 v -2.575387 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.146918,-0.07778 v -0.07778 h 1.915697 q 0.325524,0 0.530057,0.04609 0.207414,0.04609 0.360094,0.15556 0.334166,0.236222 0.334166,0.69138 0,0.371616 -0.23334,0.587672 -0.233341,0.213175 -0.685618,0.256387 l 0.80949,1.284813 q 0.04321,0.06914 0.08354,0.09506 0.04321,0.02305 0.149798,0.03745 v 0.07202 h -0.797967 v -0.07778 q 0.11235,-0.02305 0.11235,-0.07202 0,-0.03457 -0.06626,-0.138276 l -0.743232,-1.172464 z m 0,-0.314001 h 1.227198 q 0.296717,0 0.443635,-0.02017 0.149799,-0.02305 0.253506,-0.08066 0.227579,-0.126752 0.227579,-0.440754 0,-0.302478 -0.213176,-0.455158 -0.19589,-0.141156 -0.665452,-0.141156 h -1.27329 z" />
+      <path
+         id="path901"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 63.307494,28.915202 v 1.149418 q 0,0.08642 0.03745,0.132514 0.04033,0.04609 0.138276,0.0749 v 0.09218 h -0.77204 v -0.09218 q 0.103707,-0.02881 0.144037,-0.0749 0.04033,-0.04609 0.04033,-0.132514 v -2.647406 q 0,-0.08354 -0.04321,-0.123873 -0.04033,-0.04321 -0.141157,-0.06914 v -0.08642 h 1.786063 q 0.357213,0 0.5387,0.03169 0.184368,0.03169 0.331286,0.120992 0.175725,0.103707 0.276551,0.302478 0.100826,0.195891 0.100826,0.434993 0,0.239102 -0.100826,0.432112 -0.09794,0.19301 -0.279432,0.299598 -0.149799,0.09218 -0.331286,0.123872 -0.181487,0.03169 -0.535819,0.03169 z m 0,-0.314001 h 1.135014 q 0.30824,0 0.455158,-0.02305 0.146918,-0.02593 0.250625,-0.09506 0.201652,-0.132514 0.201652,-0.458039 0,-0.319763 -0.201652,-0.455158 -0.103707,-0.06914 -0.250625,-0.09218 -0.144037,-0.02593 -0.455158,-0.02593 h -1.135014 z" />
+      <path
+         id="path903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 68.105379,27.068643 q 0.861343,0 1.38852,0.449397 0.561746,0.475323 0.561746,1.256005 0,0.486847 -0.276552,0.893032 -0.521415,0.766279 -1.667953,0.766279 -0.855581,0 -1.382758,-0.449397 -0.561746,-0.478204 -0.561746,-1.23296 0,-0.509892 0.273671,-0.916077 0.290956,-0.429231 0.815252,-0.625122 0.360093,-0.135395 0.84982,-0.141157 z m 0,0.334167 q -0.702902,0 -1.132134,0.432112 -0.374497,0.374497 -0.374497,0.916077 0,0.541581 0.374497,0.916078 0.429232,0.432112 1.137895,0.432112 0.708664,0 1.137895,-0.432112 0.374498,-0.374497 0.374498,-0.898793 0,-0.567507 -0.374498,-0.933362 -0.432112,-0.426351 -1.143656,-0.432112 z" />
+      <path
+         id="path905"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 71.265559,28.903679 v 1.135014 q 0,0.118111 0.03745,0.169964 0.03745,0.04897 0.146918,0.07778 v 0.07778 h -0.780682 v -0.07778 q 0.112349,-0.02881 0.146918,-0.07778 0.03745,-0.05185 0.03745,-0.169964 v -2.575387 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.146918,-0.07778 v -0.07778 h 1.915697 q 0.325524,0 0.530057,0.04609 0.207414,0.04609 0.360094,0.15556 0.334166,0.236222 0.334166,0.69138 0,0.371616 -0.23334,0.587672 -0.233341,0.213175 -0.685618,0.256387 l 0.80949,1.284813 q 0.04321,0.06914 0.08354,0.09506 0.04321,0.02305 0.149799,0.03745 v 0.07202 h -0.797967 v -0.07778 q 0.11235,-0.02305 0.11235,-0.07202 0,-0.03457 -0.06626,-0.138276 l -0.743232,-1.172464 z m 0,-0.314001 h 1.227198 q 0.296717,0 0.443635,-0.02017 0.149799,-0.02305 0.253506,-0.08066 0.227579,-0.126752 0.227579,-0.440754 0,-0.302478 -0.213176,-0.455158 -0.19589,-0.141156 -0.665452,-0.141156 h -1.27329 z" />
+      <path
+         id="path907"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 76.911824,29.456782 h -1.690998 l -0.244864,0.541581 q -0.04609,0.100826 -0.04609,0.149799 0,0.09794 0.149799,0.138276 v 0.07778 h -0.795086 v -0.07778 q 0.11523,-0.02017 0.178606,-0.0893 0.06626,-0.07202 0.15556,-0.27079 l 1.068758,-2.321882 q 0.0893,-0.19301 0.0893,-0.265029 0,-0.100826 -0.144038,-0.123872 v -0.07778 h 0.936243 v 0.07778 q -0.144037,0.03169 -0.144037,0.123872 0,0.05474 0.11523,0.30824 l 1.025546,2.232579 q 0.103707,0.221818 0.178606,0.305359 0.0749,0.08354 0.190129,0.100827 v 0.07778 h -0.841178 v -0.07778 q 0.135395,-0.02881 0.135395,-0.09795 0,-0.03457 -0.06914,-0.190129 z m -0.135395,-0.314001 -0.705783,-1.578649 -0.711545,1.578649 z" />
+      <path
+         id="path909"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 79.763761,27.469067 v 2.569626 q 0,0.118111 0.03457,0.169964 0.03745,0.04897 0.149799,0.07778 v 0.07778 h -0.780682 v -0.07778 q 0.109468,-0.02881 0.146918,-0.07778 0.03745,-0.05185 0.03745,-0.169964 v -2.569626 h -1.051473 q -0.120991,0 -0.169964,0.03745 -0.04897,0.03745 -0.07778,0.149799 h -0.07778 v -0.685618 h 0.07778 q 0.02881,0.109468 0.07778,0.146918 0.04897,0.03745 0.169964,0.03745 h 2.514892 q 0.120991,0 0.169964,-0.03745 0.04897,-0.03745 0.07778,-0.146918 h 0.07778 v 0.685618 h -0.07778 q -0.02881,-0.11235 -0.08066,-0.149799 -0.04897,-0.03745 -0.167083,-0.03745 z" />
+      <path
+         id="path911"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 81.719785,30.038693 v -2.575387 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.146918,-0.07778 v -0.07778 h 0.780682 v 0.07778 q -0.109468,0.02881 -0.146918,0.07778 -0.03745,0.04897 -0.03745,0.169965 v 2.575387 q 0,0.118111 0.03745,0.169964 0.03745,0.04897 0.146918,0.07778 v 0.07778 h -0.780682 v -0.07778 q 0.109468,-0.02881 0.146918,-0.07778 0.03745,-0.05185 0.03745,-0.169964 z" />
+      <path
+         id="path913"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 84.871324,27.068643 q 0.861344,0 1.38852,0.449397 0.561746,0.475323 0.561746,1.256005 0,0.486847 -0.276552,0.893032 -0.521415,0.766279 -1.667952,0.766279 -0.855582,0 -1.382759,-0.449397 -0.561745,-0.478204 -0.561745,-1.23296 0,-0.509892 0.273671,-0.916077 0.290955,-0.429231 0.815251,-0.625122 0.360093,-0.135395 0.84982,-0.141157 z m 0,0.334167 q -0.702902,0 -1.132133,0.432112 -0.374497,0.374497 -0.374497,0.916077 0,0.541581 0.374497,0.916078 0.429231,0.432112 1.137895,0.432112 0.708664,0 1.137895,-0.432112 0.374497,-0.374497 0.374497,-0.898793 0,-0.567507 -0.374497,-0.933362 -0.432112,-0.426351 -1.143657,-0.432112 z" />
+      <path
+         id="path915"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#ffffff;stroke-width:0.147495"
+         d="m 87.962366,27.641912 v 2.396781 q 0,0.118111 0.03457,0.169964 0.03745,0.04897 0.149799,0.07778 v 0.07778 h -0.711545 v -0.07778 q 0.11235,-0.02881 0.146919,-0.07778 0.03745,-0.05185 0.03745,-0.169964 v -2.575387 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.146919,-0.07778 v -0.07778 h 1.048592 v 0.07778 q -0.149799,0.04897 -0.149799,0.149799 0,0.08642 0.109469,0.207414 l 1.904174,2.131753 v -2.241221 q 0,-0.120992 -0.03745,-0.169965 -0.03745,-0.04897 -0.146918,-0.07778 v -0.07778 h 0.711544 v 0.07778 q -0.109468,0.02881 -0.146918,0.07778 -0.03745,0.04897 -0.03745,0.169965 v 2.575387 q 0,0.118111 0.03457,0.169964 0.03745,0.04897 0.149799,0.07778 v 0.07778 h -0.844059 v -0.07778 q 0.149799,-0.03745 0.149799,-0.118111 0,-0.0605 -0.138276,-0.216056 z" />
+    </g>
   </g>
 </svg>
