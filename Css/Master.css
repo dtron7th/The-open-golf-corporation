@@ -8,3 +8,20 @@
     src: url(/Fonts/OpenSans-Light.ttf);
     font-family: OpenSans-Light;
 }
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #e6e6e6;
+}
+  
+::-webkit-scrollbar-thumb {
+    background: #acacac;
+    border-radius: 5px;
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #999999;
+}
